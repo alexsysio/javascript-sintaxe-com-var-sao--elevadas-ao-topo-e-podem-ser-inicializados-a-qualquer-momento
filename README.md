@@ -1,18 +1,8 @@
-### HTML JavaScript | JavaScript Com var são elevadas ao topo e podem ser inicializados a qualquer momento.
-
-<a href="https://github.com/user-attachments/assets/044adfe0-f422-4e7a-9533-b8e70cdb1a2c">
-  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/044adfe0-f422-4e7a-9533-b8e70cdb1a2c"/>
-</a>
-
-&nbsp;
-
-### Variáveis definidas com são elevadas ao topo e podem ser inicializados a qualquer momento. var
+### Variáveis definidas com var são elevadas ao topo e podem ser inicializados a qualquer momento. 
 ### Significado: Você pode usar a variável antes de ela ser declarada:
 
-&nbsp;
-
-<a href="https://github.com/user-attachments/assets/5eff0818-0400-4347-a23f-e10e9c5e7eb9">
-  <img width="100%"  alt="com-var-sao-elevadas-ao-topo-e-podem-ser-inicializados-a-qualquer-momento" src="https://github.com/user-attachments/assets/5eff0818-0400-4347-a23f-e10e9c5e7eb9"/>
+<a href="https://github.com/user-attachments/assets/69bff985-6495-4ac5-ae41-5002a8f28804">
+  <img width="100%" alt="html-javascript" src="https://github.com/user-attachments/assets/69bff985-6495-4ac5-ae41-5002a8f28804"/>
 </a>
 
 &nbsp;
@@ -23,6 +13,9 @@
 ### carName = "Volvo";
 ### var carName;
 
-&nbsp;
+<a href="https://github.com/user-attachments/assets/62e1bdb0-334c-472f-844c-cc29ee3ed6c3">
+  <img width="100%" alt="var" src="https://github.com/user-attachments/assets/62e1bdb0-334c-472f-844c-cc29ee3ed6c3"/>
+</a>
 
+&nbsp;
 
