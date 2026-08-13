@@ -7,9 +7,7 @@
 
 &nbsp;
 
-### Exemplo
 ### Isso é ok:
-
 ### carName = "Volvo";
 ### var carName;
 
